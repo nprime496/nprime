@@ -1,5 +1,7 @@
-<img src="/ressources/496.png" alt="drawing" style="width:200px;"/>
 
+<p align="center">
+<img src="/ressources/496.png" alt="drawing" style="width:400px;"/>
+</p>
 
 # [496] - An interesting number
 
