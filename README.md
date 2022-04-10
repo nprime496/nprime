@@ -1,4 +1,4 @@
-![335348_thumb](https://user-images.githubusercontent.com/54849528/141657540-d4cf3496-bf6e-4906-9e0e-d64331d864da.png)
+![335348_thumb](/ressources/496.png)
 
 
 # [496] - An interesting number
