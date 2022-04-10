@@ -1,7 +1,6 @@
 # YOUTUBE
 
-This file show a collection of useful tools for specific tasks. Those tools were added there for a specific reason : their efficience, price or set of functionnalities.
-Each tool will have a brief description and a quick summary of their benefits if needed. The sections and subsections division is up to me and doesn't follow any logic else than my thoughts at the moment I created them.
+This file show a collection of interresting (for me) Youtube channels on specific topics.
 
 Ordering is not meaningful.
 
