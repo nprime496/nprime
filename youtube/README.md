@@ -42,7 +42,7 @@ Underscore_
 
 [Adult Swim (FR)](https://www.youtube.com/c/AdultSwimFrance)
 
-[Daily Dose of Internet]https://www.youtube.com/c/DailyDoseOfInternet)
+[Daily Dose of Internet](https://www.youtube.com/c/DailyDoseOfInternet)
 
 ## Funny (Troll)
 [Valek](https://www.youtube.com/c/Valeknoraje)
