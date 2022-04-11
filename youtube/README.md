@@ -10,13 +10,13 @@ May it be useful to someone.
 ## Learn
 
 
-[ARTE](https://www.youtube.com/c/arteplus7fr)
+[ARTE](https://www.youtube.com/c/arteplus7fr): A lot of documentaries on a broad range of subjects.
 
-[Tom Scott](https://www.youtube.com/c/TomScottGo)
+[Tom Scott](https://www.youtube.com/c/TomScottGo) : A british guy 
 
 [Veritasium](https://www.youtube.com/c/veritasium)
 
-[VICE](https://www.youtube.com/c/VICE)
+[VICE](https://www.youtube.com/c/VICE) : Explore dark side of humanity.
 
 [Kurzgesagtb](https://www.youtube.com/c/inanutshell)
 
