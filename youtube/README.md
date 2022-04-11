@@ -16,9 +16,12 @@ May it be useful to someone.
 
 [Veritasium](https://www.youtube.com/c/veritasium)
 
+[VICE](https://www.youtube.com/c/VICE)
+
 [Kurzgesagtb](https://www.youtube.com/c/inanutshell)
 
 [stanfordonline](https://www.youtube.com/user/stanfordonline)
+
 
 
 ## Investment
