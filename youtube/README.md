@@ -1,9 +1,8 @@
 # YOUTUBE
 
-This file show a collection of interresting (for me) Youtube channels on specific topics.
+This file show a collection of interesting (for me) Youtube channels on some topics.
 
 Ordering is not meaningful.
-
 
 May it be useful to someone.
 
